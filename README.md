@@ -40,6 +40,6 @@ I have uploaded the original workshop material, but it contains german comments.
 For the english version, I tried something else: a SQL notebook.
 I found that this can be done with [franchise](https://franchise.cloud/).
 
-**1.** Simply download franchise and open the provided [HTML file](sql_notebook_fossgis2019.html)
-**2.** Create a Postgres database and connect to it from franchise
-**3.** The DB setup and data import is explained in the notebook
+1. Simply download franchise and open the provided [HTML file](sql_notebook_fossgis2019.html)
+2. Create a Postgres database and connect to it from franchise
+3. The DB setup and data import is explained in the notebook
