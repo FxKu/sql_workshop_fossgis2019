@@ -30,7 +30,7 @@ forms of data analysis. It doesn't have to be R or Python all the time when it c
 
 Data is provided by the Open Data initiative [ParkenDD](https://parkendd.de/) in Dresden. A data dump can be downloaded [here](http://ubahn.draco.uberspace.de/opendata/dump/parken_dump.csv).
 
-## Prequisites
+## Prerequisites
 
 PostgreSQL min. v9.6, better 11. PostGIS extension is not a must (only for the mentioned encore queries)
 
